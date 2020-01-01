@@ -4,4 +4,4 @@ This site contains texts related to Christianity and Law. Each text is annotated
 
 ## Texts
 
-The 10 Commandments 
+1. [The 10 Commandments](10Commandments.md) 
